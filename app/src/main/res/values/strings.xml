@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CircularPositioningProject</string>
+
+    <string name="menu1">Clock</string>
+    <string name="menu2">Rolling</string>
+    <string name="menu3">Double Rolling</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="butten_text">Click!</string>
+</resources>
